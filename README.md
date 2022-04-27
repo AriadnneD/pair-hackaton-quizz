@@ -1,6 +1,8 @@
 # Programmers "Language" Quiz
 
-BrainStation Pair Programming Hackathon Project. A fun quiz for programmers to test their JavaScript knowledge with a twist!
+Pair Programming - 24hr Hackathon Project. A fun quiz for programmers to test their JavaScript knowledge with a twist!
+
+- Deployed site can be found here: https://programmers-language-quiz.herokuapp.com/ 
 
 In Collaboration with: Ariadnne Díaz: https://github.com/AriadnneD
 
@@ -19,6 +21,8 @@ Programmers "Language" Quiz uses these technologies to run:
 
 ## Setup / Installation
 
+To run this application locally:
+
 Download or clone the repository: 
 ```sh
 git clone git@github.com:tanaka-lusengo/pair-hackaton-language-quiz.git
@@ -32,4 +36,5 @@ npm start
 
 ## Contact
 - Tanaka Lusengo - tc.lusengo@gmail.com
-- Project Link: git@github.com:tanaka-lusengo/pair-hackaton-language-quiz.git
+- Project Live Link: https://programmers-language-quiz.herokuapp.com/
+- Project Github Link: https://github.com/tanaka-lusengo/programmers-language-quiz
